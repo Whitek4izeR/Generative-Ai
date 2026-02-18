@@ -1,4 +1,4 @@
-# HeyGen + video and voice generation
+# HeyGen | video + voice generation
 - Title: Sabaw
 - Audience: Filipino
 - Content: Food Ads
